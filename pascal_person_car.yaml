@@ -1,0 +1,9 @@
+path: data/pascal_person_car_yolo
+
+train: images/train
+val: images/val
+test: images/val
+
+names:
+  0: person
+  1: car
