@@ -1,0 +1,3 @@
+label,mAP50,mAP5095,energy_pct,energy_saved
+Always-HR (100% pixels),0.7887,0.5756,100.0,0.0
+"Always-LR (×2 skip, 25% pixels)",0.7568,0.5479,25.0,75.0

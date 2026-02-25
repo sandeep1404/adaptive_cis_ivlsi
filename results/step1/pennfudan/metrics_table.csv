@@ -1,0 +1,11 @@
+Variant,Label,Skip Pattern,Upsample,Training imgsz,Pixels Read (%),Energy Saved (%),mAP@0.5,mAP@0.5:0.95,Precision,Recall,Best Epoch
+hr_640,HR Baseline (640p),None (HR),Yes,640,100.0,0.0,0.9915,0.8075,0.9807,0.9775,51
+row_skip1_640,"Row-skip×2, Upsampled",Row-only ×2,Yes,640,50.0,50.0,0.9901,0.7957,0.9803,0.9557,41
+row_skip1_native,"Row-skip×2, Native",Row-only ×2,No,320,50.0,50.0,0.993,0.8175,0.9811,0.9615,80
+row_skip3_640,"Row-skip×4, Upsampled",Row-only ×4,Yes,640,25.0,75.0,0.9868,0.7636,0.9807,0.9756,57
+row_skip3_native,"Row-skip×4, Native",Row-only ×4,No,160,25.0,75.0,0.938,0.5511,0.9768,0.8096,40
+both_skip1_640,"Row+Col-skip×2, Upsampled",Row+Col ×2,Yes,640,25.0,75.0,0.9911,0.8418,0.9622,0.9798,93
+both_skip1_native,"Row+Col-skip×2, Native",Row+Col ×2,No,320,25.0,75.0,0.9924,0.7706,0.9913,0.9615,49
+both_skip3_640,"Row+Col-skip×4, Upsampled",Row+Col ×4,Yes,640,6.25,93.75,0.9823,0.7424,0.957,0.9615,40
+both_skip3_native,"Row+Col-skip×4, Native",Row+Col ×4,No,160,6.25,93.75,0.9708,0.6523,0.9598,0.9182,42
+both_skip7_640,"Row+Col-skip×8, Upsampled",Row+Col ×8,Yes,640,1.56,98.44,0.9704,0.6915,0.9776,0.9231,80

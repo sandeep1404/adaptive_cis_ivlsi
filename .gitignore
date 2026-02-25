@@ -18,8 +18,7 @@ build/
 # Large data files
 *.pt
 data/
-results/
-runs/
+voc_person_car_yolo/
 *.zip
 *.tar.gz
 

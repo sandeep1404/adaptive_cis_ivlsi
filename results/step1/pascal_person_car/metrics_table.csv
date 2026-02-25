@@ -1,0 +1,5 @@
+Variant,Label,Skip Pattern,Upsample,Training imgsz,Pixels Read (%),Energy Saved (%),mAP@0.5,mAP@0.5:0.95,Precision,Recall,Best Epoch
+hr_640,HR Baseline (100% pixels),None (HR),Yes,640,100.0,0.0,0.7744,0.5115,0.8584,0.6585,86
+both_skip1_640,LR ×2 skip (25% pixels),Row+Col ×2,Yes,640,25.0,75.0,0.7441,0.4835,0.8382,0.6397,87
+both_skip3_640,LR ×4 skip (6.25% pixels),Row+Col ×4,Yes,640,6.25,93.75,0.6649,0.4154,0.7737,0.5749,90
+both_skip7_640,LR ×8 skip (1.56% pixels),Row+Col ×8,Yes,640,1.56,98.44,0.5383,0.3086,0.7012,0.4622,80

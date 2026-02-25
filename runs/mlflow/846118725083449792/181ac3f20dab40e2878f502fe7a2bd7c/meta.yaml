@@ -1,0 +1,15 @@
+artifact_uri: /home/sandeep/Desktop/adaptive_cis/runs/mlflow/846118725083449792/181ac3f20dab40e2878f502fe7a2bd7c/artifacts
+end_time: 1772030481811
+entry_point_name: ''
+experiment_id: '846118725083449792'
+lifecycle_stage: active
+run_id: 181ac3f20dab40e2878f502fe7a2bd7c
+run_name: composite_detector_4x3
+run_uuid: 181ac3f20dab40e2878f502fe7a2bd7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772026345835
+status: 3
+tags: []
+user_id: sandeep

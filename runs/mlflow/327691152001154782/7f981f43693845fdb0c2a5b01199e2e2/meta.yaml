@@ -1,0 +1,15 @@
+artifact_uri: /home/sandeep/Desktop/adaptive_cis/runs/mlflow/327691152001154782/7f981f43693845fdb0c2a5b01199e2e2/artifacts
+end_time: 1771944303373
+entry_point_name: ''
+experiment_id: '327691152001154782'
+lifecycle_stage: active
+run_id: 7f981f43693845fdb0c2a5b01199e2e2
+run_name: both_skip1_640
+run_uuid: 7f981f43693845fdb0c2a5b01199e2e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771942293038
+status: 3
+tags: []
+user_id: sandeep
