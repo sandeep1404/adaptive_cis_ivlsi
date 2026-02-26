@@ -16,7 +16,7 @@ build/
 *.ipynb
 
 # Large data files
-*.pt
+# *.pt
 data/
 voc_person_car_yolo/
 *.zip
